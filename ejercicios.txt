@@ -74,9 +74,12 @@ TelefonoIntwligente y los  almacenaremos en un
 ArrayList.
 
 Ej6:
-Crear una clase abstracta que llamaremos Empleados  con atributos nombre, salarioBase y un metodo abstracta calcularSalario().
-Luego crearemos dos interfaces Aunteticable ( con metodos iniciarSesion() y cerrarSesion()) y Bonificable ( con metodos calcularBono()).
-Hay que crear dos clases Gerente y Programador, que extiende la clase de empleado e implementen las dos interfaces.
+Crear una clase abstracta que llamaremos Empleados
+con atributos nombre, salarioBase y un metodo abstracta calcularSalario().
+Luego crearemos dos interfaces Aunteticable (con metodos iniciarSesion() y cerrarSesion()) 
+y Bonificable ( con metodos calcularBono()).
+Hay que crear dos clases Gerente y Programador, 
+que extiende la clase de empleado e implementen las dos interfaces.
 El Programador debe:
 -Crear instancias de Gerente y Programador.
 -Iniciar sesión para ambos empleados y calcular el salario ( incluyendo bono).
