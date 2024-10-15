@@ -20,7 +20,7 @@ public void setMarca() {
     scanner.close();
 }
 
-
+ 
 abstract void encender();
    
 }

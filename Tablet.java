@@ -13,4 +13,4 @@ public class Tablet extends Dispositivo implements conectable{
    public void desconectarWifi(){
     System.out.println("Se el Wifi se ha desconectado");
    }
-}
+} 

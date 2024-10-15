@@ -24,7 +24,7 @@ public class TelefonoInteligente extends Dispositivo implements conectable {
     @Override
     public String toString() {
         return "La marca que has buscado es: " + marca;
-    }
+    } 
 
    
 }

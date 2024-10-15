@@ -4,4 +4,4 @@ public interface conectable {
 
     public void desconectarWifi();
 
-}
+} 
