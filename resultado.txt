@@ -1,1 +1,0 @@
-[El rectangulo tiene de Altura: 10 , base 480 y Color: #cccee, El rectangulo tiene de Altura: 15 , base 350 y Color: #fff0f0, El cuadrado tiene de Lado: 300 y Color: #000000, El circulo tiene de radio  250 y Color: #aaaaaa]
