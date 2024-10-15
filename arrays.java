@@ -9,7 +9,7 @@ public class arrays {
        personas.add(new Persona("Bo",  19, 70));
         
 
-       boolean salir = false;
+       boolean salir =  false;
        int cont = 0;
 
        while (!salir && cont < personas.size()) {

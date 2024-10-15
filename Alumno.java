@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Alumno {
     private String nombre;
     private int edad;
-    private String ciclo;
+    private String ciclo; 
     private double notaMedia;
 
     public Alumno (String nombre, int edad, String ciclo, double notaMedia){
