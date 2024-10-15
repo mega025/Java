@@ -85,7 +85,7 @@ public class FileManager {
                  arrayList.add(circulo);
             }if (figura[0].equals("Cuadrado")) {
                 Cuadrado cuadrado = new Cuadrado();
-                cuadrado.setLongitud(Integer.parseInt(figura[2]));
+                cuadrado.setLongitud(Integer.parseInt( figura[2]));
 
                 try {
                     cuadrado.setColor(figura[3]);

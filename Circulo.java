@@ -21,7 +21,7 @@ public class Circulo extends Figura{
         this.color = color;
     }
     @Override
-    public String toString() {
+    public String toString()  {
         return "El circulo tiene de radio  " + radio + " y Color: " + color;
     }
 }

@@ -26,7 +26,7 @@ public class Rectangulo extends Figura{
         return color;
     }
     public void setColor(String color) {
-        this.color = color;
+        this.color = color; 
     }
     @Override
     public String toString() {

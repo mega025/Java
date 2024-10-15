@@ -26,3 +26,4 @@ public class Cuadrado extends Figura {
         return "El cuadrado tiene de Lado: " + longitud + " y Color: " + color ;
     }
 }
+ 
