@@ -17,7 +17,7 @@ public class tienda {
             System.out.println(productos.get(2));
             producto.setCantidad(100);
             producto.setPrecio(2.89);
-        
+         
         
         count++;
        }

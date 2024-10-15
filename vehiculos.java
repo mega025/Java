@@ -18,7 +18,7 @@ public void setVelocidadMaxima(double velocidadMaxima) {
 public String getMarca() {
     return marca;
 }
-
+ 
 public void setMarca(String marca) {
     this.marca = marca;
 }

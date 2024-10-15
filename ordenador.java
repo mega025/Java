@@ -14,3 +14,4 @@ public class ordenador implements conectable, recargable{
     }
     
 }
+ 

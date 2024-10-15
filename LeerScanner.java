@@ -21,5 +21,5 @@ public class LeerScanner {
 System.out.println("Archivo no encontrado:" + e);       
  }
     }
-    
+     
 }

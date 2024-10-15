@@ -16,3 +16,4 @@ public class funciones {
         System.out.println("Es Lunes" + esLunes);
     }
 }
+ 

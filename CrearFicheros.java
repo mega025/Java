@@ -19,7 +19,7 @@ public class CrearFicheros {
         }
 
         File file = new File("C:\\Users\\ALUMNO\\Documents\\VS\\AcessoDeDatos\\fichero2.txt");
-        try {
+        try { 
             FileReader fileReader = new FileReader(file);
             BufferedReader bufferedReader = new BufferedReader(fileReader);
             String linea;

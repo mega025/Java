@@ -13,7 +13,7 @@ public class coche  extends vehiculos{
         System.out.println("Acelerando coche");
     }
 
-
+ 
     public int getCapacidadCombustible() {
         return capacidadCombustible;
     }

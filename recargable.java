@@ -4,3 +4,4 @@ public interface recargable {
     public void nivelBateria();
 
 }
+ 

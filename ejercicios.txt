@@ -52,7 +52,7 @@ Crea dos clases, TelefonoInteligente y Tablet,
  que hereden de  Dispositivo y a su vez implementan 
  la interfaz Conectable
 El programa debe:
--Crear  instancias de TelefonoInteligente y tablet
+-Crear  instancias de TelefonoInteligente y tabl et
 -Encender ambos dispositivos con (syso ta ok)
 -Conectarlos y desconectarlos del wifi 
 

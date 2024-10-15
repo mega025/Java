@@ -16,7 +16,7 @@ private int envios;
         this.envios = envios;
     }
     
-   
+    
     public void depositar(int deposita){
         saldo += deposita;
         System.out.println("se ha depositado " + deposita);

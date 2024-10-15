@@ -12,7 +12,7 @@ public class CuentaAhorros extends CuentaBancaria {
 
         public void setInteresAnual(double interesAnual) {
             this.interesAnual = interesAnual;
-        }
+        } 
         
         public void retirar(int retira){
             if (this.saldo >= retira) {

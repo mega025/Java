@@ -15,7 +15,7 @@ public class Persona {
         return nombre;
     }
     public int getEdad() {
-        return edad;
+        return edad; 
     }
     public double getPeso() {
         return peso;

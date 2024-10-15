@@ -13,7 +13,7 @@ public class bicicleta extends vehiculos{
     public String getTipoBicicleta() {
         return tipoBicicleta;
     }
-
+ 
     public void setTipoBicicleta(String tipoBicicleta) {
         this.tipoBicicleta = tipoBicicleta;
     }   

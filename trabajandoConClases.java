@@ -14,5 +14,5 @@ public class trabajandoConClases extends Persona{
         System.out.println(persona2.toString());
 
 
-    }
-}
+    }  
+} 
